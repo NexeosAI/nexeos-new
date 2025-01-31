@@ -1,3 +1,3 @@
 # nexeos-new
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/NexeosAI/nexeos-new)
+Created our website using vite, react, typescript, & tailwind in five minutes. 
